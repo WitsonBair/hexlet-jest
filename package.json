@@ -1,0 +1,18 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Jest"
+  ],
+  "author": "Witson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "type": "module"
+}
